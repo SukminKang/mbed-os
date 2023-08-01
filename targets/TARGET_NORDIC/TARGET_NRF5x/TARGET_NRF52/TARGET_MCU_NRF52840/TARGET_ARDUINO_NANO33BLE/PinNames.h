@@ -216,6 +216,7 @@ typedef enum {
     // Arduino Nano 33 BLE Sense Pins
     VDD_ENV  = p22,
     INT_APDS = p19,
+    I2C_PULLUP = p32,
     
     I2C_SDA1 = p14,
     I2C_SCL1 = p15,
